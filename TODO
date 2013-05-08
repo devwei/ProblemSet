@@ -1,0 +1,25 @@
+Topological Sort
+Histogram
+Palindrome
+K-Merge
+K-nearest neigbour
+Min window containing all string chars
+Kth element in 2 sorted array
+LRU
+Recursive:
+    all permutation of a string
+    all combination of certain amount of momey given unlimited notes with predefined values
+DP:
+    knapsack
+    least #of coins for certain amount given coins unlimited
+    least #of coins for certain amount given coins limited
+    stack box height
+    中文分词
+    longest subsequence
+    longest substring
+    max subsequence
+    max substring
+    stock curve -- max profit
+Breath first search:
+    shortest edit distance (one word to another)
+    
